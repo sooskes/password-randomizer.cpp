@@ -2,13 +2,13 @@
 
 A modern C++ console application that generates secure random passwords while ensuring required character diversity.
 
-The program generates passwords containing lowercase letters, uppercase letters, numbers, and special characters. It also includes robust input validation, randomized character placement, and password regeneration through a clean command-line interface.
+The program generates passwords containing lowercase letters, uppercase letters, numbers, and special characters. It also includes robust input validation, randomized character placement, and password regeneration through a clean and simple command-line interface.
 
 ---
 
 ## ⬇️ Download
 
-[![Download Latest Release](https://img.shields.io/github/v/release/sooskes/password-randomizer.cpp?style=for-the-badge\&logo=windows)](https://github.com/sooskes/password-randomizer.cpp/releases/latest)
+[![Download Latest Release](https://img.shields.io/github/v/release/sooskes/password-randomizer.cpp?include_prereleases\&style=for-the-badge\&logo=windows)](https://github.com/sooskes/password-randomizer.cpp/releases)
 
 Download the latest version from the **Releases** page.
 
@@ -97,7 +97,7 @@ PasswordGenerator.exe
 
 ## 📂 Project Structure
 
-```
+```text
 Password-Randomizer/
 │
 ├── screenshots/
@@ -118,6 +118,7 @@ Password-Randomizer/
 
 * Custom password length
 * User-selectable character sets
+* Password strength indicator
 * Copy password to clipboard
 * Save generated passwords to a file
 
@@ -129,11 +130,9 @@ Password-Randomizer/
 
 Computer Engineering Student
 
-GitHub:
-https://github.com/sooskes
+GitHub: https://github.com/sooskes
 
 ---
-
 
 ## 📄 License
 
