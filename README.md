@@ -50,7 +50,7 @@ Demonstrates the program handling different user inputs correctly.
 
 ### Password Regeneration
 
-Shows generating a new password without restarting the application.
+Shows the program generating a new password after the user chooses to regenerate.
 
 ![Password Regeneration](screenshots/regeneration.png)
 
