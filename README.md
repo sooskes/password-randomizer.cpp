@@ -8,11 +8,12 @@ The program generates passwords containing lowercase letters, uppercase letters,
 
 ## ⬇️ Download
 
-[![Download Latest Release](https://img.shields.io/github/v/release/sooskes/password-randomizer.cpp?include_prereleases&style=for-the-badge&logo=windows)](https://github.com/sooskes/password-randomizer.cpp/releases/latest)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-blue?style=for-the-badge\&logo=windows)](https://github.com/sooskes/password-randomizer.cpp/releases/latest)
 
 Download the latest version from the **Releases** page.
 
 The compiled `.exe` version does not require a pre-installed C++ compiler.
+
 
 ---
 
